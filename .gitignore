@@ -1,0 +1,11 @@
+../.idea
+.env
+.idea
+db.sqlite3
+media
+/__pycache__
+venv
+myenv
+__pycache__/
+/handlers/__pycache__/
+/database/__pycache__/
